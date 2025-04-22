@@ -25,5 +25,6 @@ ContactManager Class:
 
 How to compile
 - In the BHFinal directory run: javac -d src src/*.java
+
 How to run
 - In the BHFinal directory run: javac -cp src Main
